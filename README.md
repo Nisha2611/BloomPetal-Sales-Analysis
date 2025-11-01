@@ -76,3 +76,16 @@ Features: Interactive slicers for Date & Occasion filters
 Purpose: Track and analyze sales trends for data-driven decisions
 
 
+
+
+
+👩‍💻 **Author**
+Nisha2611
+Aspiring Data Analyst | Passionate about SQL & Data Cleaning
+
+🔗 LinkedIn
+🔗 GitHub
+
+💬 Feedback
+
+Have suggestions? Open an issue or drop a ⭐ if you found it helpful!
