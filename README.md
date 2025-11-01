@@ -3,10 +3,13 @@
 
 The Sales Analysis Dashboard provides a comprehensive view of sales performance metrics for B&P. It allows users to monitor sales trends, analyze revenue by various dimensions (such as occasion, category, and city), and gain insights into customer spending behavior and delivery performance.
 
+---
 
 ## 📌 Problem Statement
 
 Bloom & Petals (B&P) is a gifting company specializing in occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. This project analyzes sales data to uncover trends and customer behavior, helping B&P optimize sales strategy, improve product performance, and enhance customer satisfaction.
+
+---
 
 ### Key Business Questions
 
@@ -23,7 +26,7 @@ Bloom & Petals (B&P) is a gifting company specializing in occasions such as Diwa
 11. **Product Popularity by Occasion:** Identify which products are most popular during each occasion.
 
 
-
+---
 
 
 🧠 **Key Metrics**
@@ -36,7 +39,7 @@ Bloom & Petals (B&P) is a gifting company specializing in occasions such as Diwa
 | **Average Customer's Spent**    | The average revenue per customer — **₹3,520.98**.        |
 
 
-
+---
 
 📈 **Highlights**
 
@@ -50,7 +53,7 @@ Peak Sales Months: March & August
 
 Top Cities: Dibrugarh, Imphal, Kavai
 
-
+---
 
 📅 **Insights**
 
@@ -63,10 +66,7 @@ Consistent performance across multiple cities.
 There is no strong correlation between order quantity and delivery time. Most orders, regardless of size, are delivered within the same average timeframe of ~5.5 days. Therefore, larger orders do not significantly impact delivery speed for Bloom & Petals.
 
 
-
-
-
-
+---
 
 
 ⚙️ **About**
@@ -78,16 +78,7 @@ Features: Interactive slicers for Date & Occasion filters
 Purpose: Track and analyze sales trends for data-driven decisions
 
 
-
-
-
-
-
-
-
-
-
-
+---
 
 
 👩‍💻 **Author**
