@@ -27,6 +27,8 @@ Top Product: Dessert Box
 
 Peak Sales Months: March & August
 
+Top Cities: Dibrugarh, Imphal, Kavai
+
 
 
 📅 **Insights**
@@ -47,5 +49,5 @@ Tool Used: Microsoft Excel
 Features: Interactive slicers for Date & Occasion filters
 
 Purpose: Track and analyze sales trends for data-driven decisions
-Top Cities: Dibrugarh, Imphal, Kavai
+
 
